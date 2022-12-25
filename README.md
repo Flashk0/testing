@@ -7,3 +7,5 @@
  * can ONLY use to test STATIC part of our project 
  * p.s. not instant response, may have to wait for minutes and/or clear cookie
  */
+ 
+ EDIT FILE ONLY IN YOUR BRANCH
